@@ -2,4 +2,6 @@ Documentation for this project:
 
 This is super commerce project.
 
-Now I have made some changes.
+Changes log:
+
+A new badge was added fro blog post
